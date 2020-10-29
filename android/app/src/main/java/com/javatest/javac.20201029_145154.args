@@ -1,0 +1,6 @@
+-Xlint
+-sourcepath
+/home/ruben/Sites/react-native/javatest/android/app/src/main/java/
+-d
+/tmp/vvNlFeA/24
+/tmp/vvNlFeA/25/CustomToastPackage.java

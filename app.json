@@ -1,0 +1,12 @@
+{
+  "name": "javatest",
+  "displayName": "javatest",
+  "expo": {
+    "name": "javatest",
+    "slug": "javatest",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

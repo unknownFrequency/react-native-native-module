@@ -1,0 +1,6 @@
+-Xlint
+-sourcepath
+/home/ruben/Sites/react-native/javatest/android/app/src/main/java/
+-d
+/tmp/vvNlFeA/30
+/tmp/vvNlFeA/31/MainApplication.java
