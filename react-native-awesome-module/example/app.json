@@ -1,0 +1,22 @@
+{
+  "name": "toast-module-example",
+  "displayName": "ToastModule Example",
+  "expo": {
+    "name": "toast-module-example",
+    "slug": "toast-module-example",
+    "description": "Example app for toast-module",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
